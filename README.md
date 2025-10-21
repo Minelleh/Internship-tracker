@@ -8,3 +8,4 @@ Do not worry about code yet — this is for backups, notes, and future code.
 - Frontend: Glide app (connected to Airtable)
 - Automation: Zapier → OpenAI (cover letter generation)
 
+
